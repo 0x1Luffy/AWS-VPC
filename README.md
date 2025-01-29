@@ -10,3 +10,9 @@ gateway. To improve resiliency, you deploy the NAT gateway in bott Availability
 Zones.
 
 ## Architecture Diagram 
+
+
+
+## Steps to Create VPC with NAT Gateway, Auto Scaling Groups and Application Load Balancer
+
+  #Step 1: 
